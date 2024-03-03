@@ -1,6 +1,6 @@
 import 'package:appwrite/appwrite.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:new_app_rivan/models/user_model.dart';
+// import 'package:new_app_rivan/models/user_model.dart';
 import '../constants/constants.dart';
 
 final appwriteClientProvider = Provider(

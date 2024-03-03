@@ -15,4 +15,10 @@ class UIConstants {
       centerTitle: true,
     );
   }
+
+  static List<Widget> bottomTabBarPages = [
+    const Text("Home"),
+    const Text("Search"),
+    const Text("Noti"),
+  ];
 }
